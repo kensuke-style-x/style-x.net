@@ -1,0 +1,29 @@
+body{
+  color:#40514E
+  position: relative;
+}
+
+}
+.Middle-container{
+  padding: 3% 15%;
+}
+h3{
+  margin-left: 1rem;
+}
+
+#Stylebook li{
+  margin-bottom: 1rem;
+}
+
+.Bottom-container{
+  text-align: center;
+  font-size: xx-small;
+  width: auto;
+}
+
+/* copyright*/
+.copyright{
+  text-align: center;
+  font-size: xx-small;
+  padding: 20px 0;
+}
